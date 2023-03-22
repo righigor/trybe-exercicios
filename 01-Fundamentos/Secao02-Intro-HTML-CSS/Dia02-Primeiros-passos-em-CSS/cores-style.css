@@ -1,0 +1,23 @@
+body {
+    font-size: 20px;
+}
+
+
+h1 {
+    font-family: sans-serif;
+    background-color: aqua;
+}
+
+p {
+    font-weight: 600;
+    font-size: 3em;
+    background-color: blueviolet;
+
+}
+
+ul {
+    background-color: green;
+    text-align: center;
+    text-decoration-line: underline;
+    color: aliceblue;
+}
