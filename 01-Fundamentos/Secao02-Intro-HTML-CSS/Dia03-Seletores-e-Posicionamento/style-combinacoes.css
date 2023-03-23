@@ -1,0 +1,52 @@
+.top-frases {
+    background-color: yellow;
+}
+
+.par {
+    color: green;
+}
+
+.impar {
+    text-transform: uppercase;
+}
+header {
+    color: red;
+    font-size: 40px;
+    border: 1px solid black;
+}
+
+li {
+    font-size: 20px;
+}
+.italico {
+    font-weight: bold;
+}
+
+.programacao {
+    color: blue;
+
+}
+.java {
+    background-color: pink;
+}
+
+.aliados:nth-of-type(1):hover {
+    font-weight: bold;
+    color: orange;
+}
+.aliados:nth-of-type(2):hover {
+    font-weight: bold;
+    color: green;
+}
+.aliados:nth-of-type(3):hover {
+    font-weight: bold;
+    color: black;
+}
+.aliados:nth-of-type(4):hover {
+    font-weight: bold;
+    color: yellow;
+}
+.aliados:nth-of-type(5):hover {
+    font-weight: bold;
+    color: green;
+}
