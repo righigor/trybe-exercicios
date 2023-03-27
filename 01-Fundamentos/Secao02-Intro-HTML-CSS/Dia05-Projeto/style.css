@@ -1,0 +1,78 @@
+* {
+    background-color: rgb(253, 251, 251);
+    margin: 0;
+    font-family: Edu NSW ACT Foundation, cursive;
+    font-size: 25px;
+  }
+  #cabecalho {
+    position: fixed;
+    top: 0;
+    background-color: blue;
+    width: 100%;
+    display: block;
+    padding: 25px;
+    text-align: center;
+  }
+  #titulo {
+    background-color: blue;
+    font-family: Roboto Condensed, sans-serif;
+    padding: 10px;
+    font-size: 40px;
+  }
+  #foto {
+    margin: auto;
+    text-align: center;
+  }
+  img {
+    margin: auto;
+  }
+  #minha_foto {
+    margin-top: 170px;
+    max-width: 30%;
+    padding-left: 10px;
+    border-radius: 45px;
+    display: block;
+  }
+  a {
+    margin: auto;
+    padding: auto;
+  }
+  h2 {
+    font-size: 45px;
+  }
+  #listas {
+    padding-top: 20px;
+    text-align: center;
+  }
+  #licoes_aprendidas {
+    display: inline-block;
+  }
+  #licoes_a_aprender {
+    display: inline-block;
+  }
+  table {
+    margin: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  main {
+    padding: 20px;
+    text-align: justify;
+    line-height: 45px;
+  }
+  .lado-esquerdo {
+    max-width: 63%;
+    display: inline-block;
+  }
+  .lado-direito {
+    float: right;
+    max-width: 30%;
+    background-color: beige;
+  }
+  footer {
+    margin-top: 60px;
+    padding: 20px;
+    background-color: blue;
+    color: white;
+    text-align: center;
+  }
