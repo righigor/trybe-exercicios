@@ -4,11 +4,11 @@ Nesta lição, aprendi como o Unix funciona e como devemos interagir com ele no 
 
 ### Principais Temas Abordados
 
-- Quais são os principais componentes do Unix?
-- Quais são suas variações?
-- Qual é a estrutura de diretórios?
-- O que é o terminal?
-- Quais são os principais comandos executados no Shell?
+- Quais são os principais componentes do Unix?;
+- Quais são suas variações?;
+- Qual é a estrutura de diretórios?;
+- O que é o terminal?;
+- Quais são os principais comandos executados no Shell?;
 
 ### Aprendizados
 
