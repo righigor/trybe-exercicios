@@ -4,20 +4,20 @@ Agora é hora de por em prática todo o conhecimento adquirido durante a seção
 
 ### Funções
 
-#### compareTrue
+####  1: compareTrue
 <details>
   <sumary>
-  A função `compareTrue` ao receber dois parâmetros booleanos deve:
+  A função <code>compareTrue<code> ao receber dois parâmetros booleanos deve:
   </sumary> <br />
 
     - Retornar `true` se ambos os valores forem verdadeiros;
     - Retornar `false` se um ou ambos os parâmetros forem falsos.
 </details>
 
-#### splitSentence
+#### 2: splitSentence
 <details>
   <sumary>
-  A função `splitSentence` recebe uma string como parâmetro e deve retornar um array com as palavras separadas.
+  A função <code>splitSentence<code> recebe uma string como parâmetro e deve retornar um array com as palavras separadas.
   </sumary> <br />
 
     - A função `splitSentence` deve retornar o valor `['go', 'Trybe']` quando receber como parâmetro a string `'go Trybe'`;
@@ -25,10 +25,10 @@ Agora é hora de por em prática todo o conhecimento adquirido durante a seção
     - A função `splitSentence` deve retornar o valor `['foguete']` quando receber como parâmetro a string `'foguete'`.
 </details>
 
-#### concatName
+#### 3: concatName
 <details>
   <sumary>
-  Implemente a função `concatName` que recebe um array de strings e retorna uma string com o último e o primeiro item.
+  Implemente a função <code>concatName<code> que recebe um array de strings e retorna uma string com o último e o primeiro item.
   </sumary> <br />
 
     - A função `concatName` deve retornar o valor `'Paolillo, Lucas'` quando receber como parâmetro o array `['Lucas', 'Cassiano', 'Ferraz', 'Paolillo']`;
@@ -36,7 +36,7 @@ Agora é hora de por em prática todo o conhecimento adquirido durante a seção
     - A função `concatName` deve retornar `'captain, captain'` quando receber como parâmetro o array `['captain', 'my', 'captain']`.
 </details>
 
-#### footballPoints
+#### 4: footballPoints
 
 <details>
   <summary>
@@ -48,7 +48,7 @@ Agora é hora de por em prática todo o conhecimento adquirido durante a seção
     - A função `footballPoints` deve retornar o valor `0` pontos quando o time tenha 0 vitórias e 0 empates.
 </details>
 
-#### highestCount
+#### 5: highestCount
 
 <details>
   <summary>
@@ -60,7 +60,7 @@ Agora é hora de por em prática todo o conhecimento adquirido durante a seção
     - A função `highestCount` deve retornar `3` quando receber o parâmetro `[0, 0, 0]`.
 </details>
 
-#### calcTriangleArea - calcRectangleArea - calcAllAreas
+#### 6: calcTriangleArea - calcRectangleArea - calcAllAreas
 
 <details>
   <summary>
@@ -72,7 +72,7 @@ Agora é hora de por em prática todo o conhecimento adquirido durante a seção
     - A função `calcAllAreas` que recebe 3 parâmetros sendo eles, o valor da base (`base`), o valor da altura (`height`) e a forma geométrica (`form`) que eu quero obter o valor da área, podendo ser `triângulo` ou `retângulo`.
 </details>
 
-#### catAndMouse
+#### 7: catAndMouse
 
 <details>
   <summary>
@@ -85,7 +85,7 @@ Agora é hora de por em prática todo o conhecimento adquirido durante a seção
       - Retorne a string `'os gatos trombam e o rato foge'` caso os gatos estejam na mesma distância do rato.
 </details>
 
-#### fizzBuzz
+#### 8: fizzBuzz
 
 <details>
   <summary>
@@ -98,7 +98,7 @@ Agora é hora de por em prática todo o conhecimento adquirido durante a seção
     - Retorne a string `'bug!'` para cada número do array que não seja dividido por 3 nem por 5.
 </details>
 
-#### encode - decode
+#### 9: encode - decode
 
 <details>
   <summary>
@@ -120,7 +120,7 @@ Agora é hora de por em prática todo o conhecimento adquirido durante a seção
       5 -> u
 </details>
 
-#### techList
+#### 10: techList
 
 <details>
   <summary>
