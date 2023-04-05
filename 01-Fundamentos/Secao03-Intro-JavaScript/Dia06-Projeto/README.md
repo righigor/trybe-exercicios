@@ -4,7 +4,7 @@ Agora é hora de por em prática todo o conhecimento adquirido durante a seção
 
 ### Funções
 
-####  1 - compareTrue
+####  compareTrue
 
 <details>
   <sumary>
@@ -16,7 +16,7 @@ A função <code>compareTrue<code> ao receber dois parâmetros booleanos deve:
 
 </details>
 
-#### 2 - splitSentence
+#### splitSentence
 
 <details>
   <sumary>
@@ -29,7 +29,7 @@ A função <code>splitSentence<code> recebe uma string como parâmetro e deve re
 
 </details>
 
-#### 3 - concatName
+#### concatName
 
 <details>
   <sumary>
@@ -42,7 +42,7 @@ Implemente a função <code>concatName<code> que recebe um array de strings e re
 
 </details>
 
-#### 4 - footballPoints
+#### footballPoints
 
 <details>
   <summary>
@@ -55,7 +55,7 @@ Implemente a função <code>footballPoints</code> que calcula a pontuação de u
 
 </details>
 
-#### 5 - highestCount
+#### highestCount
 
 <details>
   <summary>
@@ -68,7 +68,7 @@ Implemente a função <code>highestCount</code> que deverá retornar a quantidad
 
 </details>
 
-#### 6 - calcTriangleArea - calcRectangleArea - calcAllAreas
+#### calcTriangleArea - calcRectangleArea - calcAllAreas
 
 <details>
   <summary>
@@ -81,7 +81,7 @@ Implemente 3 funções. Uma função que calcula a área de um triângulo, outra
 
 </details>
 
-#### 7 - catAndMouse
+#### catAndMouse
 
 <details>
   <summary>
@@ -95,7 +95,7 @@ Implemente a função <code>catAndMouse</code> que verifica qual gato está mais
 
 </details>
 
-#### 8 - fizzBuzz
+#### fizzBuzz
 
 <details>
   <summary>
@@ -109,7 +109,7 @@ Implemente a função <code>fizzBuzz</code> que recebe um array de números e re
 
 </details>
 
-#### 9 - encode - decode
+#### encode - decode
 
 <details>
   <summary>
@@ -131,7 +131,7 @@ Implemente uma função que codifica e decodifica uma frase, trocando vogais por
 
 </details>
 
-#### 10 - techList
+#### techList
 
 <details>
   <summary>
