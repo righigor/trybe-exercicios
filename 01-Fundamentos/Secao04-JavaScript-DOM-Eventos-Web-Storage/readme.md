@@ -1,0 +1,5 @@
+# Seção 04 - JavaScript: DOM, Eventos e Web Storage
+
+Nesta seção, aprenderei o famoso `Document Object Model`, também chamado de `DOM`. Essa estrutura estabelece a ponte entre o HTML e o JavaScript, permitindo a interação entre os dois, a qual é fundamental para deixar as páginas web dinâmicas. Quando a pessoa usuária clica em um botão e algo acontece na página, por exemplo, é porque o domínio sobre o DOM foi aplicado. Um exemplo de aplicação do DOM é a alteração da cor do fundo de uma página após o clique em um botão.
+
+Tendo isso em mente aqui você encontrará os exercícios que desenvolvi para fixar os conhecimentos que adquiri ao longo desse bloco. Além disso também desenvolvi o projeto ao final de bloco para avaliar tudo o que havia aprendido, você pode acessá-lo [aqui](https://github.com/righigor/trybe-exercicios/tree/main/01-Fundamentos/Secao04-JavaScript-DOM-Eventos-Web-Storage/Dia05-Projeto-Arte-com-Pixels).
