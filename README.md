@@ -27,15 +27,15 @@ O programa conta com mais de 1.500 horas de aula online, aborda introdução ao 
 #### Seção 3 Introdução à JavaScript
 
 - [:white_check_mark:] 1: _JavaScript - Primeiros passos_
-- [:hourglass_flowing_sand:] 2: _JavaScript - Array e loop For_
-- [:hourglass_flowing_sand:] 3: _JavaScript - Funções_
-- [:hourglass_flowing_sand:] 4: _JavaScript - Objetos_
-- [:hourglass_flowing_sand:] 5: _JavaScript ES6 - let, const, arrow functions e template literals_
-- [:hourglass_flowing_sand:] 6: _Projeto - Playground Functions_
+- [:white_check_mark:] 2: _JavaScript - Array e loop For_
+- [:white_check_mark:] 3: _JavaScript - Funções_
+- [:white_check_mark:] 4: _JavaScript - Objetos_
+- [:white_check_mark:] 5: _JavaScript ES6 - let, const, arrow functions e template literals_
+- [:white_check_mark:] 6: _Projeto - Playground Functions_
 
 #### Seção 4 JavaScript: DOM, Eventos e Web Storage
 
-- [:hourglass_flowing_sand:] 1: _Javascript - DOM e seletores_
+- [:white_check_mark:] 1: _Javascript - DOM e seletores_
 - [:hourglass_flowing_sand:] 2: _Javascript - Trabalhando com elementos_
 - [:hourglass_flowing_sand:] 3: _Javascript - Eventos_
 - [:hourglass_flowing_sand:] 4: _Javascript - Web Storage_
