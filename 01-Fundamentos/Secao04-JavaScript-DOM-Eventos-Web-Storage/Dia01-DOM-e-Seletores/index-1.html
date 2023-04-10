@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <header>
+    <h2 id="page-title">Título</h2>
+    <p id="paragraph" class="paragrafo" >Dê uma cor para este parágrafo!</p>
+    <h4 id="subtitle">Subtítulo</h4>
+    <p id="second-paragraph" class="paragrafo" >Segundo parágrafo!</p>
+  </header>
+  <script>
+    const title = document.getElementById("page-title");
+    const subtitle = document.getElementById("subtitle");
+    const paragraph = document.getElementById("paragraph");
+    const secondParagraph = document.getElementById("second-paragraph");
+    const paragrafo = document.getElementsByClassName("paragrafo");
+    const subtitulo = document.getElementsByTagName('h4');
+    title.innerText = 'Interstrellar';
+    subtitle.innerText = 'vamo cruzeiro';
+    paragraph.style.color = "red";
+    secondParagraph.style.backgroundColor = 'yellow';
+    paragrafo[0].style.color = "green";
+    subtitulo[0].style.backgroundColor = 'brown'; 
+  </script>
+</body>
+</html>
