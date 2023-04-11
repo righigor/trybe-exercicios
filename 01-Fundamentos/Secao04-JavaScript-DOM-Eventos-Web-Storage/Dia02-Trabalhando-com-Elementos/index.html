@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>Exercício</title>
+    <style>
+      section {
+        border-color: black;
+        border-style: solid;
+      }
+
+      .title {
+        text-align: center;
+      }
+
+      .main-content {
+        background-color: yellow;
+      }
+
+      .main-content .center-content {
+        background-color: red;
+        width: 50%;
+        margin-left: auto;
+        margin-right: auto;
+      }
+
+      .main-content .center-content p {
+        font-style: italic;
+      }
+
+      .main-content .left-content {
+        background-color: green;
+        width: 60%;
+        margin-left: 0;
+        margin-right: auto;
+      }
+
+      .main-content .left-content .small-image {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        border-radius: 100%;
+      }
+
+      .main-content .right-content {
+        background-color: blue;
+        width: 60%;
+        margin-left: auto;
+        margin-right: 0;
+      }
+
+      .main-content .description {
+        text-align: center;
+      }
+    </style>
+  </head>
+  <body>
+    <script>
+      // COLOQUE SEU CÓDIGO AQUI
+      const criarH1 = document.createElement('h1');
+      criarH1.innerText = 'TrybeTrip - Agência de viagens';
+      document.body.appendChild(criarH1);
+
+      const criarMain = document.createElement('main');
+      criarMain.className = 'main-content'
+      document.body.appendChild(criarMain);
+      
+      const criarSection = document.createElement('section');
+      criarSection.className = 'center-content';
+      criarMain.appendChild(criarSection);
+
+      const criarP = document.createElement('p');
+      criarSection.appendChild(criarP);
+      criarP.innerText = 'vamos viajar';
+
+      criarSectionL = document.createElement('section');
+      criarSectionL.className = 'left-content';
+      criarMain.appendChild(criarSectionL);
+
+      criarSectionR = document.createElement('section');
+      criarSectionR.className = 'right-content';
+      criarMain.appendChild(criarSectionR);
+
+      const criarImg = document.createElement('img');
+      criarImg.src = 'https://picsum.photos/200';
+      criarImg.className = 'small-image'
+      criarSectionL.appendChild(criarImg);
+
+      const ul = document.createElement('ul');
+      const numbers = ['um', 'dois', 'três', 'quatro', 'cinco', 'seis', 'sete', 'oito', 'nove', 'dez']
+      for (let i = 0; i < numbers.length; i += 1) {
+        const criarLi = document.createElement('li');
+        criarLi.innerText = numbers[i];
+        ul.appendChild(criarLi);
+      }
+      criarSectionR.appendChild(ul);
+      const texto = ['description1', 'description2', 'description3'];
+      for (let i = 0; i < 3; i += 1) {
+        const criarH3 = document.createElement('h3');
+        criarH3.className = 'description';
+        criarH3.innerText = texto[i];
+        criarMain.appendChild(criarH3);
+      }
+      
+      criarH1.className = 'title';
+      const secaoLeft = document.getElementsByClassName('left-content')[0];
+      criarMain.removeChild(secaoLeft);
+
+      const secaoRight = document.getElementsByClassName('right-content')[0];
+      secaoRight.style.margin = 'auto';
+      criarSection.style.backgroundColor = 'green';
+
+      ul.lastChild.remove();
+      ul.lastChild.remove();
+
+    </script>
+  </body>
+</html>
