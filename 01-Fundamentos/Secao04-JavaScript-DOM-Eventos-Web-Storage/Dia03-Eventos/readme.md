@@ -8,3 +8,4 @@ Agora, vou aprender como utilizar os eventos do JavaScript para fazer com que fu
 - Aplicar em seu código JavaScript eventos de `click`, `mouseover`, `mouseleave`, entre outros.
 
 
+
