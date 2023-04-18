@@ -36,15 +36,15 @@ O programa conta com mais de 1.500 horas de aula online, aborda introdução ao 
 #### Seção 4 JavaScript: DOM, Eventos e Web Storage
 
 - [:white_check_mark:] 1: _Javascript - DOM e seletores_
-- [:hourglass_flowing_sand:] 2: _Javascript - Trabalhando com elementos_
-- [:hourglass_flowing_sand:] 3: _Javascript - Eventos_
-- [:hourglass_flowing_sand:] 4: _Javascript - Web Storage_
-- [:hourglass_flowing_sand:] 5: _Projeto - Arte com Pixels_
+- [:white_check_mark:] 2: _Javascript - Trabalhando com elementos_
+- [:white_check_mark:] 3: _Javascript - Eventos_
+- [:white_check_mark:] 4: _Javascript - Web Storage_
+- [:white_check_mark:] 5: _Projeto - Arte com Pixels_
 - [:hourglass_flowing_sand:] 6: _Projeto Bônus_
 
 #### Seção 5 HTML e CSS: Forms, Flexbox e Responsivo
 
-- [:hourglass_flowing_sand:] 1: _HTML & CSS - Forms_
+- [:white_check_mark:] 1: _HTML & CSS - Forms_
 - [:hourglass_flowing_sand:] 2: _Bibliotecas JavaScript e FrameworksCSS_
 - [:hourglass_flowing_sand:] 3: _CSS Flexbox - Parte 1_
 - [:hourglass_flowing_sand:] 4: _CSS Flexbox - Parte 2_
