@@ -40,20 +40,19 @@ O programa conta com mais de 1.500 horas de aula online, aborda introdução ao 
 - [:white_check_mark:] 3: _Javascript - Eventos_
 - [:white_check_mark:] 4: _Javascript - Web Storage_
 - [:white_check_mark:] 5: _Projeto - Arte com Pixels_
-- [:hourglass_flowing_sand:] 6: _Projeto Bônus_
 
 #### Seção 5 HTML e CSS: Forms, Flexbox e Responsivo
 
 - [:white_check_mark:] 1: _HTML & CSS - Forms_
-- [:hourglass_flowing_sand:] 2: _Bibliotecas JavaScript e FrameworksCSS_
-- [:hourglass_flowing_sand:] 3: _CSS Flexbox - Parte 1_
-- [:hourglass_flowing_sand:] 4: _CSS Flexbox - Parte 2_
-- [:hourglass_flowing_sand:] 5: _CSS Responsivo - Mobile First_
-- [:hourglass_flowing_sand:] 6: _Projeto - Trybewarts_
+- [:white_check_mark:] 2: _Bibliotecas JavaScript e FrameworksCSS_
+- [:white_check_mark:] 3: _CSS Flexbox - Parte 1_
+- [:white_check_mark:] 4: _CSS Flexbox - Parte 2_
+- [:white_check_mark:] 5: _CSS Responsivo - Mobile First_
+- [:white_check_mark:] 6: _Projeto - Trybewarts_
 
 #### Seção 6 Introdução à JavaScript ES6 e Testes Unitários
 
-- [:hourglass_flowing_sand:] 1: _Fluxo de exceções e manipulação de objetos_
+- [:white_check_mark:] 1: _Fluxo de exceções e manipulação de objetos_
 - [:hourglass_flowing_sand:] 2: _Primeiros passos em Jest_
 - [:hourglass_flowing_sand:] 3: _Matchers e cobertura de código_
 - [:hourglass_flowing_sand:] 4: _Projeto - JavaScript Testes Unitários_
