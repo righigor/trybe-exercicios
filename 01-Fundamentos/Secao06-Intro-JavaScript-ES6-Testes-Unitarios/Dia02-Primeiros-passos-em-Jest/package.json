@@ -1,0 +1,15 @@
+{
+  "name": "dia02-primeiros-passos-em-jest",
+  "version": "1.0.0",
+  "description": "`Teste unitário` é uma das maneiras de realizar testes. Ele tem como objetivo testar pequenas partes do seu código de forma isolada, como, por exemplo, uma função. Dessa maneira, você simula as entradas e as saídas que a função deve ter.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
