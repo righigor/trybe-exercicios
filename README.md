@@ -53,13 +53,13 @@ O programa conta com mais de 1.500 horas de aula online, aborda introdução ao 
 #### Seção 6 Introdução à JavaScript ES6 e Testes Unitários
 
 - [:white_check_mark:] 1: _Fluxo de exceções e manipulação de objetos_
-- [:hourglass_flowing_sand:] 2: _Primeiros passos em Jest_
-- [:hourglass_flowing_sand:] 3: _Matchers e cobertura de código_
-- [:hourglass_flowing_sand:] 4: _Projeto - JavaScript Testes Unitários_
+- [:white_check_mark:] 2: _Primeiros passos em Jest_
+- [:white_check_mark:] 3: _Matchers e cobertura de código_
+- [:white_check_mark:] 4: _Projeto - JavaScript Testes Unitários_
 
 #### Seção 7 Higher Order Functions do JavaScript ES6
 
-- [:hourglass_flowing_sand:] 1: _Introdução a Higher Order Functions_
+- [:white_check_mark:] 1: _Introdução a Higher Order Functions_
 - [:hourglass_flowing_sand:] 2: _Higher Order Functions - sort e map_
 - [:hourglass_flowing_sand:] 3: _Higher Order Functions - filter e reduce_
 - [:hourglass_flowing_sand:] 4: _JavaScript ES6 - spread operator, rest parameters e object destructuring_
