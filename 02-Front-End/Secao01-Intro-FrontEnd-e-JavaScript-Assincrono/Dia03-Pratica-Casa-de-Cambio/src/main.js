@@ -2,7 +2,6 @@ import './style.css';
 import Swal from 'sweetalert2';
 // Swal.fire
 
-const api = 'https://api.exchangerate.host/latest?base=${moeda}';
 
 const btnPesquisar = document.querySelector('#btn-pesquisar');
 const tituloMoeda = document.querySelector('#valores');
@@ -14,18 +13,18 @@ btnPesquisar.addEventListener('click', (e) => {
   e.preventDefault();
   const inputMoeda = document.querySelector('#digita-moeda');
   const inputValue = inputMoeda.value.toUpperCase();
+  const api = `https://api.exchangerate.host/latest?base=${inputValue}`;
   fetch(api)
     .then((res) => res.json())
     .then((data) => {
-      console.log(data);
       const rate = data.rates;
       tituloMoeda.innerHTML =`Valores referentes a 1 ${inputValue}`
       Object.keys(rate).forEach(key => {
         const criaDiv = document.createElement('div');
         criaDiv.className = 'moedasConvertidas';
-        criaSpan.className = 'img-icon';
         secaoMoedas.appendChild(criaDiv);
-        criaDiv.innerHTML = `${key} ${rate[key]}`;
+        const valor = rate[key].toFixed(3);
+        criaDiv.innerHTML = `<span class = 'coin'><img src="img/icon.png" alt="Icone de uma moeda" class="moedinha">${key}</span> <span class = 'valor'>${valor}</span>`;
       })
     })
     .catch((err) => Swal.fire({
