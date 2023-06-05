@@ -1,0 +1,19 @@
+{
+  "name": "dia03-pratica-casa-de-cambio",
+  "version": "1.0.0",
+  "description": "Hoje o dia é um exercício de construir uma aplicação de uma casa de câmbio.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite --open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@trybe/eslint-config-frontend": "^1.11.2",
+    "sweetalert2": "^11.7.5",
+    "vite": "^4.3.8"
+  },
+  "type": "module"
+}

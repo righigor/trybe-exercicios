@@ -1,0 +1,20 @@
+{
+  "name": "geradordesenhas",
+  "version": "1.0.0",
+  "description": "melhor gerador de senhas",
+  "main": "main.js",
+  "scripts": {
+    "dev": "vite --open"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "clipboard-copy": "^4.0.1",
+    "nanoid": "^4.0.2",
+    "vite": "^4.3.8"
+  },
+  "type": "module",
+  "devDependencies": {
+    "eslint": "^8.40.0"
+  }
+}
