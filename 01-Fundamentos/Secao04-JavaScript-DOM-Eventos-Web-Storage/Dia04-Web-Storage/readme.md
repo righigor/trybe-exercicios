@@ -1,6 +1,5 @@
 # Dia 04: JavaScript - Web Storage
 
-
 Estudarei a respeito de `Web Storage`.
 
 `Web Storage` provê mecanismos para que as aplicações web possam salvar dados nos navegadores com a finalidade de aprimorar a experiência das pessoas usuárias.
@@ -10,6 +9,8 @@ Antes do `HTML 5`, as aplicações tinham de salvar os dados locais em `cookies`
 Em comparação ao dos `cookies`, o limite de armazenamento é muito maior (pelo menos 5MB), além de as informações não serem transferidas para o servidor durante as requisições.
 
 `Web Storage` é um mecanismo por origem (por domínio e protocolo). Todas as páginas de uma mesma origem podem salvar e acessar os mesmos dados. Por exemplo, se o domínio `betrybe.com` salvar o dado `X` no `Web Storage`, o domínio `course.betrybe.com` conseguirá ler esse dado `X`.
+
+O exercício Desafio Técnico: Calendário Tryber se encontra [aqui](https://github.com/righigor/trybe-exercicios/tree/main/06-exercicios/sd-032-a-exercise-tryber-calendar)
 
 ### Aprendizados
 

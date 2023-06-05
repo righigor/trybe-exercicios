@@ -6,6 +6,3 @@ Agora, vou aprender como utilizar os eventos do JavaScript para fazer com que fu
 
 - Mudar o conteúdo, o estilo e outros atributos de elementos HTML a partir de eventos do JavaScript;
 - Aplicar em seu código JavaScript eventos de `click`, `mouseover`, `mouseleave`, entre outros.
-
-
-
