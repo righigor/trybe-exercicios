@@ -1,7 +1,7 @@
 # Dia 07: Prática - Store Back Office
 
 Nesse exercício, vou desenvolver um back office para uma loja. O back office deve permitir que o usuário gerencie os produtos, cadastrando-os e excluindo-os.
-Este exercício encontra-se aqui [].
+Este exercício encontra-se [aqui](https://github.com/righigor/trybe-exercicios/tree/main/06-exercicios/sd-032-a-exercise-store-back-office).
 
 ### Aprendizados
 
