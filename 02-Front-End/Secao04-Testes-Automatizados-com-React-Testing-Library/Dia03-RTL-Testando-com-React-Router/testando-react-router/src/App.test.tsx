@@ -39,3 +39,8 @@ test('Navega da página Sobre para página inicial', async () => {
   await user.click(incialLink);
   expect(screen.getByText(/Você está na página inicial/)).toBeInTheDocument();
 });
+
+test('Testa a rota NotFound', () => {
+  renderWithRouter(<App />, { route: '/qualquercoisa' });
+  expect(screen.getByText(/Página não encontrada/)).toBeInTheDocument();
+})
