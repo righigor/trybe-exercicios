@@ -2,16 +2,4 @@
 
 Nessa seção irei iniciar os estudos de `Front-end`. Além disso, vou aprender também um pouco sobre `Javascript assíncrono`, `fetch API` e `testes`.
 
-### Aprendizados
-
-- Configuração de ambiente e `Javascript assíncrono`;
-- React com `TypeScript`:
-  - Fundamentos;
-  - `Hooks`;
-  - Estado, Props e Ciclo de Vida;
-  - Formulários;
-  - `React Router`;
-  - `Context API`;
-- Metodologias Ágeis;
-- Testes Automatizados com `React Testing Library`;
-- Gerenciamento de Estado Global.
+Tendo isso em mente aqui você encontrará os exercícios que desenvolvi para fixar os conhecimentos que adquiri ao longo desse bloco. Além disso também desenvolvi o projeto ao final de bloco para avaliar tudo o que havia aprendido, você pode acessá-lo [aqui](https://github.com/righigor/trybe-exercicios/tree/main/02-Front-End/Secao01-Intro-FrontEnd-e-JavaScript-Assincrono/Dia05-Projeto-iChoveu).
