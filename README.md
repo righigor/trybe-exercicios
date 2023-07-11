@@ -73,43 +73,45 @@ O programa conta com mais de 1.500 horas de aula online, aborda introdução ao 
 
 #### Seção 1: Introdução ao Frontend e JavaScript assícrono
 
-- [:hourglass_flowing_sand:] 1: _Ambiente de desenvolvimento_
-- [:hourglass_flowing_sand:] 2: _JavaScript Assícrono - Promises e fetch_
-- [:hourglass_flowing_sand:] 3: _Prática - Casa de Câmbio_
-- [:hourglass_flowing_sand:] 4: _Async, await e testes assíncronos_
-- [:hourglass_flowing_sand:] 5: _Projeto - Carrinho de Compras_
+- [:white_check_mark:] 1: _Ambiente de desenvolvimento_
+- [:white_check_mark:] 2: _JavaScript Assícrono - Promises e fetch_
+- [:white_check_mark:] 3: _Prática - Casa de Câmbio_
+- [:white_check_mark:] 4: _Async, await e testes assíncronos_
+- [:white_check_mark:] 5: _Projeto - iChoveu_
 
 #### Seção 2: Introdução ao React
 
-- [:hourglass_flowing_sand:] 1: _'Hello, world!' no React!_
-- [:hourglass_flowing_sand:] 2: _Componentes React_
-- [:hourglass_flowing_sand:] 3: _Projeto - Solar System_
+- [:white_check_mark:] 1: _Introdução ao React e ao Typescript_
+- [:white_check_mark:] 2: _Componentes React e Props_
+- [:white_check_mark:] 3: _Avançando em componentes_
+- [:white_check_mark:] 4: _Prática - Solar System_
+- [:white_check_mark:] 5: _Estados e eventos_
+- [:white_check_mark:] 6: _Formulários_
+- [:white_check_mark:] 7: _Prática - Store Back Office_
+- [:white_check_mark:] 8: _Projeto - Password Manager_
 
-#### Seção 3: Componentes com Estado, Eventos e Formulários com React
+#### Seção 3: Aprofundando no React
 
-- [:hourglass_flowing_sand:] 1: _Componentes com estado e eventos_
-- [:hourglass_flowing_sand:] 2: _Formulários no React_
-- [:hourglass_flowing_sand:] 3: _Projeto - Tryunfo_
+- [:white_check_mark:] 1: _React Router_
+- [:white_check_mark:] 2: _useEffect_
+- [:white_check_mark:] 3: _Prática - Clonando o Twitter_
+- [:white_check_mark:] 4: _Projeto - Trybetunes_
 
-#### Seção 4: Ciclo de Vida de Componentes e React Router
+#### Seção 4: Testes automatizados com React Testing Library
 
-- [:hourglass_flowing_sand:] 1: _Ciclo de vida de componentes_
-- [:hourglass_flowing_sand:] 2: _React Router_
-- [:hourglass_flowing_sand:] 3: _Projeto - TrybeTunes_
+- [:white_check_mark:] 1: _Introdução a React Testing Library_
+- [:white_check_mark:] 2: _RTL - Mocks_
+- [:white_check_mark:] 3: _RTL - Testando React Router_
+- [:white_check_mark:] 4: _Projeto - Testes em React_
 
 #### Seção 5: Metodologias Ágeis
 
-- [:hourglass_flowing_sand:] 1: _Metodologias Ágeis_
-- [:hourglass_flowing_sand:] 2: _Projeto - Front-end Online Store_
+- [:white_check_mark:] 1: _CSS Modules_
+- [:white_check_mark:] 2: _Styled Components_
+- [:white_check_mark:] 3: _Metodologias ágeis_
+- [:white_check_mark:] 4: _Projeto: Frontend Online Store_
 
-#### Seção 6: Testes automatizados com React Testing Library
-
-- [:hourglass_flowing_sand:] 1: _RTL - Primeiros passos_
-- [:hourglass_flowing_sand:] 2: _RTL - Mocks e Inputs_
-- [:hourglass_flowing_sand:] 3: _RTL - Testando React Router_
-- [:hourglass_flowing_sand:] 4: _Projeto - Testes em React_
-
-#### Seção 7: Gerenciamento de estado com Redux
+#### Seção 6: Gerenciamento de estado com Redux
 
 - [:hourglass_flowing_sand:] 1: _Introdução ao Redux - O estado global da aplicação_
 - [:hourglass_flowing_sand:] 2: _Usando o Redux no React_
@@ -118,18 +120,18 @@ O programa conta com mais de 1.500 horas de aula online, aborda introdução ao 
 - [:hourglass_flowing_sand:] 5: _Testes em React-Redux_
 - [:hourglass_flowing_sand:] 6: _Projeto - Trybe Wallet_
 
-#### Seção 8: Projeto - Jogo de Trivia
+#### Seção 7: Projeto - Jogo de Trivia
 
 - [:hourglass_flowing_sand:] 1: _Projeto - Jogo de Trivia_
 
-#### Seção 9: Context API e React Hooks
+#### Seção 8: Context API e React Hooks
 
 - [:hourglass_flowing_sand:] 1: _React Hooks - useState e useEffect_
 - [:hourglass_flowing_sand:] 2: _Context API_
 - [:hourglass_flowing_sand:] 3: _Custom Hooks_
 - [:hourglass_flowing_sand:] 4: _Projeto - StarWars Datatable com Context API e Hooks_
 
-#### Seção 10: Projeto - App de Receitas
+#### Seção 9: Projeto - App de Receitas
 
 - [:hourglass_flowing_sand:] 1: _Projeto - App de Receitas_
 
