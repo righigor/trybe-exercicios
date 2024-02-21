@@ -1,4 +1,4 @@
-# Blogs API
+# TFC - Trybe Futebol Clube
 
 ## Índice
 
@@ -8,13 +8,12 @@
 
 ### Descrição
 
-Neste projeto criarei uma API e um banco de dados para a produção de conteúdo para um Blog, seguindo a arquitetura de software: Model, Service e Controller, usando ORM Sequelize e biblitotecas como o JsonWebToken, JWT.
+tfc
+
 
 ### Skills
 
-![Backend](https://img.shields.io/badge/Backend-333333?style=for-the-badge) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Sequelize ORM](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge) ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge)
-
-
+![Backend](https://img.shields.io/badge/Backend-333333?style=for-the-badge) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Sequelize ORM](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge) ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge) ![POO](https://img.shields.io/badge/POO-333333?style=for-the-badge)
 
 ### Contato
 
