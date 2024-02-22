@@ -242,6 +242,39 @@ O programa conta com mais de 1.500 horas de aula online, aborda introdução ao 
 
 </details>
 
+<details>
+
+  <summary><strong> Ciência da Computação </strong></summary>
+
+  #### Seção 1: Introdução à Python
+
+  - [:white_check_mark:] 1: _Aprendendo Python_
+  - [:white_check_mark:] 2: _Entrada e Saída de Dados com Testes_
+  - [:white_check_mark:] 3: _P.O.O em Python_
+  - [:white_check_mark:] 4: _Projeto - Job Insights_
+
+  #### Seção 2: Algoritmos
+
+  - [:white_check_mark:] 1: _Complexidade de Algoritmos_
+  - [:white_check_mark:] 2: _Recursividade e Estratégias para Solução de Problemas_
+  - [:white_check_mark:] 3: _Algoritmos de ordenação e busca_
+  - [:white_check_mark:] 4: _Projeto - Algoritmos_
+
+  #### Seção 3: Estrutura de Dados I: Lista Lineares
+
+  - [:white_check_mark:] 1: _Arrays_
+  - [:white_check_mark:] 2: _Nó e Listas Encadeadas_
+  - [:white_check_mark:] 3: _Pilhas e Filas_
+  - [:white_check_mark:] 4: _Projeto - TING - Trybe Is Not Google_
+
+  #### Seção 4: Estrutura de Dados II: Hashmaps e Sets
+
+  - [:white_check_mark:] 1: _Hashmap e Dict_
+  - [:white_check_mark:] 2: _Set_
+  - [:white_check_mark:] 3: _Projeto - Restaurant Orders_
+
+</details>
+
 ### Contato
 
 Se você tiver alguma dúvida ou sugestão sobre o diretório, fique à vontade para entrar em contato:
