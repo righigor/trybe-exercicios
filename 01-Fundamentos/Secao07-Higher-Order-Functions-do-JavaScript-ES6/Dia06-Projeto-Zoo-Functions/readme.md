@@ -1,4 +1,4 @@
-# Dia 06: Projeto - Zoo Functions
+# Zoo Functions
 
 ## Índice
 
