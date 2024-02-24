@@ -12,6 +12,9 @@ class Pet():
     - Idade: {self.idade}
     - Dono: {self.humano}
     """
+  
+  def __repr__(self) -> str:
+    return f'Pet({self.nome}, {self.especie}, {self.idade}, {self.humano})'
 
 thor = Pet('thor', 'gato', 5, 'felps')
 
