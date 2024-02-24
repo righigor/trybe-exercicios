@@ -1,4 +1,4 @@
-# Online Store
+# Front-End Online Store
 
 ## Índice
 
