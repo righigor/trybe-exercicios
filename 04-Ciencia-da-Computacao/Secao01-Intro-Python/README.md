@@ -10,6 +10,8 @@
 
 Vou conhecer a linguagem que cada vez mais tem se tornado relevante no mundo da programação: Python. Para me familiarizar com o uso dela, vou escrever nossos primeiros programas.
 
+Tendo isso em mente aqui você encontrará os exercícios que desenvolvi para fixar os conhecimentos que adquiri ao longo desse bloco. Além disso também desenvolvi o projeto ao final de bloco para avaliar tudo o que havia aprendido, você pode acessá-lo [aqui](https://github.com/righigor/trybe-exercicios/tree/main/04-Ciencia-da-Computacao/Secao01-Intro-Python/Dia04-Projeto-Job-Insights).
+
 ### Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
