@@ -1,4 +1,4 @@
-# Dia 01: Recursividade e Estratégias para Soluções de Problemas
+# Dia 02: Recursividade e Estratégias para Soluções de Problemas
 ![Algorithms](https://img.shields.io/badge/Algorithms-333333?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
