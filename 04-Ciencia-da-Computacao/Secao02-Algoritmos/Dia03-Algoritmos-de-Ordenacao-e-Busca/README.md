@@ -1,4 +1,4 @@
-# Dia 01: Algoritmos de ordenação e busca
+# Dia 03: Algoritmos de ordenação e busca
 ![Algorithms](https://img.shields.io/badge/Algorithms-333333?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
