@@ -289,8 +289,8 @@ O programa conta com mais de 1.500 horas de aula online, aborda introdução ao 
 
   #### Seção 1: Debug com Python
 
-  - [✅] 1: _Estratégias de debug com Python_
-  - [✅] 2: _Automatizando o Bug Hunting com Pytest_
+  - [🕒] 1: _Estratégias de debug com Python_
+  - [🕒] 2: _Automatizando o Bug Hunting com Pytest_
   - [🕒] 3: _Avançando nos testes em Python_
   - [🕒] 4: _Projeto - ProFiler_
 
