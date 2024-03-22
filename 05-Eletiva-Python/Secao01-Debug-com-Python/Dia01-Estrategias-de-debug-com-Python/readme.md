@@ -1,0 +1,1 @@
+# Dia 01: Estratégias de debug com Python
