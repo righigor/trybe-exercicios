@@ -1,0 +1,1 @@
+# Dia02: Automatizando o Bug Hunting com Pytest
